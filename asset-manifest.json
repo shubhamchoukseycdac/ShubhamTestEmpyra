@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ShubhamTestEmpyra/static/css/main.5093e3ca.css",
+    "main.js": "/ShubhamTestEmpyra/static/js/main.89d4e5f0.js",
+    "index.html": "/ShubhamTestEmpyra/index.html",
+    "main.5093e3ca.css.map": "/ShubhamTestEmpyra/static/css/main.5093e3ca.css.map",
+    "main.89d4e5f0.js.map": "/ShubhamTestEmpyra/static/js/main.89d4e5f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5093e3ca.css",
+    "static/js/main.89d4e5f0.js"
+  ]
+}
